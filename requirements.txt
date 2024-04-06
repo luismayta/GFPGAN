@@ -1,4 +1,4 @@
-basicsr>=1.4.2
+new-basics
 facexlib>=0.2.5
 lmdb
 numpy
@@ -6,7 +6,7 @@ opencv-python
 pyyaml
 scipy
 tb-nightly
-torch>=1.7
+torch>=1.7,<=1.13.1
 torchvision
 tqdm
 yapf
